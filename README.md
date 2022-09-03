@@ -68,10 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-if (media >= 21) {
-    document.querySelector('#resultado').style.color = 'green';
-} else {
-    document.querySelector('#resultado').style.color = 'red';
-}
-"# controle-de-notas" 
